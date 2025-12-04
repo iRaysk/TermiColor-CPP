@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    cout << red << "Hola Mundo!" << reset;
+    cout << red << "Hello World!" << reset;
 
     return 0;
 }
