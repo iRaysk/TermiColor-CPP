@@ -34,7 +34,7 @@ You can install TermiColor in **two ways**:
 ### **1️⃣ Clone the repository (recommended)**
 
 ```bash
-git clone https://github.com/iRaysk/termicolor-cpp.git
+git clone https://github.com/iRaysk/TermiColor-CPP.git
 ```
 
 Then include the header:
