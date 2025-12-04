@@ -134,7 +134,7 @@ They allow fast, zero-overhead styling.
 | **Linux** | ✔ Full support |
 | **macOS** | ✔ Full support |
 | **Windows Terminal** | ✔ Full support |
-| **PowerShell (new)** | ✔ |
+| **PowerShell (new)** | ✔ Full support |
 | **Old CMD** | ✖ Not supported |
 
 ---
